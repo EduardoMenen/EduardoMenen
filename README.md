@@ -7,11 +7,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Olá, meu nome é Eduardo Menegazzo Riboli, tenho 19 anos, sou um estudante da Atitus - Passo Fundo, cursando atualmente o 3º semestre de Ciências da Computação. 
-Desde muito novo, sempre fui apaixonado por tecnologia, o que despertou minha paixão para o mundo da programação. Desde que comecei meus estudos em 2024, tenho me dedicado a área de desenvolvimento Web na parte de Front-End. O objetivo do meu trabalho é criar interfaces responsivas, intuitivas e otimizadas para a melhor experiência do usuário.
-- 🚀 &nbsp; Meu objetivo é me tornar um desenvolvedor Front-End especialista, aprimorando minhas habilidades em React e TypeScript, com foco em performance, acessibilidade e experiência do usuário. Busco oportunidades para trabalhar em empresas inovadoras que valorizam tecnologia e boas práticas de desenvolvimento, contribuindo para projetos desafiadores e impactantes.
-- 🎵 &nbsp; Sou apaixonado por música, sempre que posso estou com meu fone!
-- 🪩 &nbsp; Também gosto de festas e me divertir com meus amigos.
+- 👨🏻‍💻 &nbsp; Olá, meu nome é Eduardo Menegazzo Riboli, tenho 19 anos e sou estudante da Atitus - Passo Fundo, cursando o 4º semestre de Ciências da Computação.
+Tenho paixão por tecnologia e programação, com foco em desenvolvimento Back-End. Meus estudos e projetos são voltados para a criação de sistemas robustos, escaláveis e eficientes, utilizando Python.
+Valorizo boas práticas de desenvolvimento, como versionamento de código, tratamento de erros, validação de dados e organização de sistemas, aplicando conceitos de POO, manipulação de arquivos e estruturas de dados para criar soluções consistentes e confiáveis.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
