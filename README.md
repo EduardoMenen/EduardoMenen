@@ -12,13 +12,8 @@ Tenho paixão por tecnologia e programação, com foco em desenvolvimento Back-E
 Valorizo boas práticas de desenvolvimento, como versionamento de código, tratamento de erros, validação de dados e organização de sistemas, aplicando conceitos de POO, manipulação de arquivos e estruturas de dados para criar soluções consistentes e confiáveis.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+[![My Skills](https://skillicons.dev/icons?i=py,aws)](https://skillicons.dev)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
