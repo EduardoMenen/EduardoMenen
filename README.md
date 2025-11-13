@@ -13,7 +13,7 @@ Valorizo boas práticas de desenvolvimento, como versionamento de código, trata
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,mysql,docker,aws)](https://skillicons.dev)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
